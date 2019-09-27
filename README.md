@@ -19,4 +19,4 @@ Did you know we have a job listserv for all SAFS related job postings including 
 
 To subscribe to the SAFSjobs listserv, fill out the form here: http://mailman11.u.washington.edu/mailman/listinfo/safsjobs. Feel free to pass this on to anyone else who might have interest in subscribing.
 
-To post job listings to the listserv, send them to SAFSjobs@uw.edu.
+To post job listings to the listserv, send them to SAFSjobs   @    uw.edu.
