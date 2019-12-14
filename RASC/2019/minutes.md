@@ -1,5 +1,20 @@
-#Minutes
+# Minutes
 
+RASC December 10, 2019 Minutes
+Present: Fox, Roberts, Punt, Simenstad, Olden, Scheuerell, Braun, Seeb, Friedman, Schindler
+
+As point of information we mentioned some special cases expected in this round of applications.
+
+Most of the meeting was spent going over review process, with My Grad accessible at https://grad.uw.edu/for-faculty-and-staff/mygrad-department-view/. A short screencast was also produced. By the end of the week of Dec 16 all reviewers should have applicants populated in the system. For each applicant, there should be a score for 4 specific metrics and an overall score that is not mathmatically tied to the other 4 scores. All scores should be whole numbers. It is suggested you compile scores offline (eg Excel) then tranfer to My Grad. This will ensure folks can consider entire pool prior to submitting scores.  
+All scores should be submitted by January 6. At that point individuals will be selected for review by the entire committee to determine those scholarship eligible. 
+
+It was suggested that for the first round, applicants considered scholarship eligible should be given an overall score of 4 and a good target would be somewhere around 10% of applicants reviewed. 
+
+Currently all members have 2 applicants in your queue and have been placed there in the event you wish to score and compare to other RASC member scores. 
+
+
+
+---
 
 RASC October 31 2019 Minutes
 
